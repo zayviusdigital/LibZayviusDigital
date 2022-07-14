@@ -1,0 +1,24 @@
+{
+  "pc": "com.guidecuan.pasticuan",
+  "link_new_app": "null",
+  "database": "https://andropedia.org/apitanpagambar.json",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "app_open": "ca-app-pub-3940256099942544/3419835294",
+      "banner": "xca-app-pub-3940256099942544/6300978111",
+      "native": "xca-app-pub-3940256099942544/2247696110",
+      "inter": "xca-app-pub-3940256099942544/1033173712"
+    }
+  ],
+  "applovin": [
+    {
+      "rewarded": "22b8a74872e9dc71"
+    }
+  ],
+  "start_io": [
+    {
+      "on_off": true
+    }
+  ]
+}
